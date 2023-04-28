@@ -1,0 +1,81 @@
+{
+  "sounds" : [
+    {
+      "customSortIndex" : 4,
+      "name" : "A",
+      "image" : "a.square",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 1,
+      "name" : "Chant",
+      "image" : "📣",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 9,
+      "name" : "Dogs",
+      "image" : "🐶",
+      "color" : "925E23"
+    },
+    {
+      "customSortIndex" : 3,
+      "name" : "E",
+      "image" : "e.square",
+      "color" : "34C759"
+    },
+    {
+      "audioFileSuffix" : 1,
+      "customSortIndex" : 7,
+      "name" : "E",
+      "image" : "e.square",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 2,
+      "name" : "Eagles",
+      "image" : "❕",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 0,
+      "name" : "Fight Song",
+      "image" : "play.circle.fill",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 5,
+      "name" : "G",
+      "image" : "g.square",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 6,
+      "name" : "L",
+      "image" : "l.square",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 8,
+      "name" : "S",
+      "image" : "s.square",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 9,
+      "name" : "Who?",
+      "image" : "🐶",
+      "color" : "925E23"
+    },
+    {
+      "customSortIndex" : 9,
+      "name" : "X3",
+      "image" : "🐶",
+      "color" : "925E23"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
+  "name" : "Eagles",
+  "image" : "🦅",
+  "color" : "34C759"
+}
