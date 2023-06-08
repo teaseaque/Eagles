@@ -65,5 +65,6 @@
   "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
   "name" : "Eagles",
   "image" : "🦅",
-  "color" : "34C759"
+  "color" : "34C759",
+  "description" : "The chant song of the Philadelphia Eagles football team, with a bit extra"
 }
